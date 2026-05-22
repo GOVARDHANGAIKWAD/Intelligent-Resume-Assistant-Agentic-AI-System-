@@ -1,0 +1,32 @@
+John Doe
+Email: john.doe@email.com
+Phone: +1-555-123-4567
+
+SUMMARY
+Full-stack software engineer with 5 years of experience building scalable web applications using React, Node.js, and Python.
+
+SKILLS
+JavaScript, TypeScript, React, Node.js, Python, PostgreSQL, MongoDB, Docker, AWS, Git
+
+EXPERIENCE
+Senior Software Engineer - TechCorp Inc (2022 - Present)
+- Led development of microservices architecture serving 1M+ users
+- Built real-time dashboards using React and WebSocket
+- Technologies: React, Node.js, TypeScript, AWS, MongoDB
+
+Software Engineer - StartupXYZ (2020 - 2022)  
+- Developed RESTful APIs and GraphQL endpoints
+- Improved application performance by 40%
+- Technologies: Python, FastAPI, PostgreSQL, Docker
+
+EDUCATION
+B.S. Computer Science - MIT (2016 - 2020)
+GPA: 3.8
+
+PROJECTS
+Portfolio Website - React + Next.js personal portfolio
+OpenSource CLI Tool - Node.js command-line tool with 500+ GitHub stars
+
+CERTIFICATIONS
+AWS Certified Developer - Associate (2023)
+Google Cloud Professional (2022)
